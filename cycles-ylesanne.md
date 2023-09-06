@@ -5,7 +5,8 @@ Kasuta etteantud massiivi, kuva kõik tooted ja lisa iga toote ette järjekorran
 ```js
 const products = ["Õunad", "Piim", "Leib", "Juust", "Tomatid", "Kanafilee", "Muna", "Sibul", "Apelsinid", "Riis", "Jogurt", "Kartul", "Kalafilee", "Pasta", "Jogurtijook", "Porgandid", "Virsikud", "Pähklid", "Rosinad", "Kapsas", "Kreeka jogurt", "Veiseliha", "Banaanid", "Oliivid", "Mandlid", "Magus kartul", "Greibid"];
 ```
-Täienda koodi nii, et kuvatakse 10 esimest toodet, aga jäetakse vahele, kui reas on Muna, Sibul või Riis.
+
+* Täienda koodi nii, et kuvatakse 10 esimest toodet, aga jäetakse vahele, kui reas on Muna, Sibul või Riis.
 
 ## Temperatuurid
 Sul on massiiv kuude ja igapäevaste temepratuuride mõõtmised.
