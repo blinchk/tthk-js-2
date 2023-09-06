@@ -1,11 +1,14 @@
 const tingimus = 1 == 1;
 if (tingimus) {
     // Kood, mis täidetakse, kui tingimus on tõene
-}   
+}  
+if (1 == 1) {
+    // Kood, mis täidetakse, kui tingimus on tõene
+} 
 
 const a = 5;
 const b = 10;
- 
+
 // Võrdlusoperaatorid
 console.log(a > b); // false: 5 ei ole suurem kui 10
 console.log(a < b); // true: 5 on väiksem kui 10
@@ -16,7 +19,7 @@ console.log(a != b); // true: 5 ei ole võrdne 10-ga
 
 // Loose võrdlus
 const n = 5;
-console.log(n == '5');
+console.log("5 == 5: " + n == '5');
 // Strict võrdlus
 console.log(n === '5'); // false: erinevad andmetüübid (number vs string)
 console.log(1 === true); // false: erinevad andmetüübid (number vs boolean)
