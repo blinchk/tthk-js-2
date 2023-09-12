@@ -30,3 +30,6 @@ const temperatures = [
 
 * Leia iga kuu keskmine
 * Leia millises kuus oli kõige kõrgem ja millises kõige madalam temperatuur – kuva kuu nimetus ja temperatuur.
+```js
+const months = "Jaanuar, Veebruar, Märts, Aprill, Mai, Juuni, Juuli, August, September, Oktoober, November, Detsember";
+```

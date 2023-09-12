@@ -26,9 +26,25 @@ const matrix = [
 ];
 for (let i = 0; i < matrix.length; i++) {
     for (let j = 0; j < matrix[i].length; j++) {
+        if (matrix[i][j] === 5) {
+            break;
+        }
+        if (matrix[i][j] === 2 || matrix[i][j] === 4) {
+            continue;
+        }
         console.log(matrix[i][j]);
     }
 }
+
+// forEach
+function printFruit(fruit) {
+    console.log(fruit);
+}
+
+fruits.forEach((fruit) => {
+    console.log(fruit);
+});
+fruits.forEach(printFruit);
 
 
 // https://meet.google.com/jiw-dsji-dcp
