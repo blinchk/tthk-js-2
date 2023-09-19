@@ -10,8 +10,6 @@ Veebilehed, kasutades DOM-i, mida võimaldab:
 * kustutada ühe või rohkem kui ühe objekteid (`.splice()` ja `[input=radio]`)
 * otsida objekteid
 
-Tehtud töö -> nikolas.laus@tthk.ee meili peale.
-
 ## Tooded 
 Kasuta sisu [eelmisest ülesannest](https://github.com/blinchk/tthk-js-2/blob/main/objects-ylesanne.md) toode objektiga.
 
@@ -66,3 +64,7 @@ Siin on õpilaste kaugushüppe tulemused.
 * Peab olema võimalus lisada rohkem, kui 3 tulemust.
 * Keskmine tulemus ümarda 2 komakohta.
 * Tulemuse lisamise võimalus
+
+## Tehtud töö
+
+Tehtud töö -> nikolas.laus@tthk.ee meili peale.
