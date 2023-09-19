@@ -15,9 +15,7 @@ Tehtud töö -> nikolas.laus@tthk.ee meili peale.
 ## Tooded 
 Kasuta sisu [eelmisest ülesannest](https://github.com/blinchk/tthk-js-2/blob/main/objects-ylesanne.md) toode objektiga.
 
-* Peab olema meetod, mis kuvab kogu sisu
-* Peab olema metood, mis lisab ostukorvi tooteid juurde
-* Peab olema, mis kuvab ostukorvi summa
+* Kuva ostukorvi summa
 
 ## Nimed
 
@@ -26,7 +24,7 @@ const nimed = ["mari maasikas", "jaan jõesaar", "kristiina kukk", "margus musti
 ```
 
 * Kasuta nimede massiivi ja tee nimed korda, et kõik hakkaks suure algustähega
-* Kasuta perenimesid (väiketähed), et luua neile email kujul perenimi@metshein.com
+* Kasuta perenimesid (väiketähed), et luua neile email kujul perenimi@tthk.ee
 * Loo funktsioon, mis otsib kas massiivis on nimi või mitte. Kui on, siis kuvab täisnimed.
 
 ## Sünniaeg ja vanus
@@ -63,4 +61,5 @@ const opilased = [
 ```
 Siin on õpilaste kaugushüppe tulemused. 
 * Kuva õpilase nimi, parim tulemus ja keskmine tulemus. 
+* Peab olema võimalus lisada rohkem, kui 3 tulemust.
 * Keskmine tulemus ümarda 2 komakohta.
