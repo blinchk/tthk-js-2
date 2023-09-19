@@ -60,6 +60,6 @@ const opilased = [
 ];
 ```
 Siin on õpilaste kaugushüppe tulemused. 
-* Kuva õpilase nimi, parim tulemus ja keskmine tulemus. 
+* Kuva õpilase nimi, tulemused, parem ja keskmine tulemus. 
 * Peab olema võimalus lisada rohkem, kui 3 tulemust.
 * Keskmine tulemus ümarda 2 komakohta.
