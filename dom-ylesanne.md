@@ -8,9 +8,10 @@ Kasuta sisu [eelmisest ülesannest](https://github.com/blinchk/tthk-js-2/blob/ma
 Bootstrapi jne võib kasutada.
 
 Veebileht, kasutades DOM-i, mida võimaldab:
-* lisada uut toodet
-* muuta olemasolevat (nimi, hing, kogus jne) toodet
-* kustutada ühe või rohkem kui ühe tooteid (`.splice()` ja `[input=radio]`)
+* lisada uut objekti
+* muuta olemasolevat (nimi, hing, kogus jne) objekti
+* kustutada ühe või rohkem kui ühe objekteid (`.splice()` ja `[input=radio]`)
+* otsida objekteid
 
 ## Nimed
 
@@ -54,4 +55,6 @@ const opilased = [
 { nimi: "Rasmus", tulemused: [4.4, 4.5, 4.3] },
 ];
 ```
-* Siin on õpilaste kaugushüppe tulemused. Kuva õpilase nimi, parim tulemus ja keskmine tulemus. Keskmine tulemus ümarda 2 komakohta.
+Siin on õpilaste kaugushüppe tulemused. 
+* Kuva õpilase nimi, parim tulemus ja keskmine tulemus. 
+* Keskmine tulemus ümarda 2 komakohta.
