@@ -11,7 +11,7 @@ Veebilehed, kasutades DOM-i, mida võimaldab:
 * otsida objekteid
 
 ## Tooded 
-Kasuta sisu [eelmisest ülesannest](https://github.com/blinchk/tthk-js-2/blob/main/objects-ylesanne.md) toode objektiga.
+Kasuta sisu [eelmisest ülesannest](https://github.com/blinchk/tthk-js-2/blob/main/objects-ylesanne.md) toodete objektide massiiviga.
 
 * Kuva ostukorvi summa
 
