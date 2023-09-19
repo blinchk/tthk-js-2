@@ -13,6 +13,8 @@ Veebileht, kasutades DOM-i, mida võimaldab:
 * kustutada ühe või rohkem kui ühe objekteid (`.splice()` ja `[input=radio]`)
 * otsida objekteid
 
+Tehtud töö -> nikolas.laus@tthk.ee meili peale.
+
 ## Nimed
 
 ```js
