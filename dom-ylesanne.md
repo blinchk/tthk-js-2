@@ -4,7 +4,7 @@ Kõik osad peavad olema eraldi lehtedel.
 
 Bootstrapi jne võib kasutada.
 
-Veebileht, kasutades DOM-i, mida võimaldab:
+Veebilehed, kasutades DOM-i, mida võimaldab:
 * lisada uut objekti
 * muuta olemasolevat (nimi, hing, kogus jne) objekti
 * kustutada ühe või rohkem kui ühe objekteid (`.splice()` ja `[input=radio]`)
@@ -23,8 +23,9 @@ Kasuta sisu [eelmisest ülesannest](https://github.com/blinchk/tthk-js-2/blob/ma
 const nimed = ["mari maasikas", "jaan jõesaar", "kristiina kukk", "margus mustikas", "jaak järve", "kadi kask", "Toomas Tamm", "Kadi Meri", "Leena Laas", "Madis Mets", "Hannes Hõbe", "Anu Allikas", "Kristjan Käär", "Eva Esimene", "Jüri Jõgi", "Liis Lepik", "Kalle Kask", "Tiina Teder", "Kaidi Koppel", "tiina Toom"];
 ```
 
-* Kasuta nimede massiivi ja tee nimed korda, et kõik hakkaks suure algustähega
-* Kasuta perenimesid (väiketähed), et luua neile email kujul perenimi@tthk.ee
+* Nime objekti lisamise võimalus.
+* Kasuta nimede massiivi ja tee nimed korda, et kõik hakkaks suure algustähega.
+* Kasuta perenimesid (väiketähed), et luua neile email kujul perenimi@tthk.ee.
 * Loo funktsioon, mis otsib kas massiivis on nimi või mitte. Kui on, siis kuvab täisnimed.
 
 ## Sünniaeg ja vanus
@@ -41,6 +42,7 @@ const inimesteAndmed = [
 ];
 ```
 * Kasuta objektide masiivi ja lisa meetod, mis leiab inimeste sünniaja ja vanuse
+* Inimese objekti lisamise võimalus
 * Peale objekti lisamist vanus ja sünniaeg peab olema sama reas
 
 ## Kaugushüpe
@@ -63,3 +65,4 @@ Siin on õpilaste kaugushüppe tulemused.
 * Kuva õpilase nimi, tulemused, parem ja keskmine tulemus. 
 * Peab olema võimalus lisada rohkem, kui 3 tulemust.
 * Keskmine tulemus ümarda 2 komakohta.
+* Tulemuse lisamise võimalus
