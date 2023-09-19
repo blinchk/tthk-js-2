@@ -2,9 +2,6 @@
 
 Kõik osad peavad olema eraldi lehtedel.
 
-## Tooded 
-Kasuta sisu [eelmisest ülesannest](https://github.com/blinchk/tthk-js-2/blob/main/objects-ylesanne.md) toode objektiga.
-
 Bootstrapi jne võib kasutada.
 
 Veebileht, kasutades DOM-i, mida võimaldab:
@@ -14,6 +11,13 @@ Veebileht, kasutades DOM-i, mida võimaldab:
 * otsida objekteid
 
 Tehtud töö -> nikolas.laus@tthk.ee meili peale.
+
+## Tooded 
+Kasuta sisu [eelmisest ülesannest](https://github.com/blinchk/tthk-js-2/blob/main/objects-ylesanne.md) toode objektiga.
+
+* Peab olema meetod, mis kuvab kogu sisu
+* Peab olema metood, mis lisab ostukorvi tooteid juurde
+* Peab olema, mis kuvab ostukorvi summa
 
 ## Nimed
 
