@@ -4,7 +4,7 @@ Kõik osad peavad olema eraldi lehtedel.
 
 Bootstrapi jne võib kasutada.
 
-Veebilehed, kasutades DOM-i, mida võimaldab:
+Veebilehed, kasutades DOM-i, mida võimaldavad:
 * lisada uut objekti
 * muuta olemasolevat (nimi, hing, kogus jne) objekti
 * kustutada ühe või rohkem kui ühe objekteid (`.splice()` ja `[input=radio]`)
